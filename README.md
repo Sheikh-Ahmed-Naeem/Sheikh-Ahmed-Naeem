@@ -6,7 +6,7 @@
 
 ### Hi, I'm Sheikh Ahmed Naeem!
 
-I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Khan Institute, one of Pakistan's leading universities for Computer Science and Engineering. I have a strong proficiency in C/C++, Python, HTML and CSS. Additionally, I am skilled in using Linux operating systems, including Kali Linux and Ubuntu, for cybersecurity tasks. My interests span cybersecurity, application development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I enjoy collaborating with like-minded individuals, sharing my learning resources, and showcasing my projects using tools Python ,C++ and SQL.
+I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Khan Institute, one of Pakistan's leading universities for Computer Science and Engineering. I have a strong proficiency in C/C++, Python, HTML and CSS. Additionally, I am skilled in using Linux operating systems, including Kali Linux and Ubuntu, for cybersecurity tasks. My interests span cybersecurity, application development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I enjoy collaborating with like-minded individuals, sharing my learning resources, and showcasing my projects using basic tools like Metasploit, ettercap.
 
 
 <div align="center">
